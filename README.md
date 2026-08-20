@@ -24,4 +24,4 @@ This repository contains the source code, reproducible analysis notebooks, and s
   <img src="results/figures/flow_spatial_integration.png" alt="Spatial integration workflow" width="760" />
 </p>
 
-See [RESULTS.md](RESULTS.md) for the result figures and presentation.
+See [RESULTS.md](RESULTS.md) for the result figures.
