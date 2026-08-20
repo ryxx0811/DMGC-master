@@ -6,7 +6,7 @@ This repository contains the source code, reproducible analysis notebooks, and s
 
 ## Analysis workflows
 
-### Heart validation
+### Heart-sample validation
 
 <p align="center">
   <img src="results/figures/flow_heart_validation.png" alt="Heart validation workflow" width="760" />
