@@ -12,7 +12,7 @@ DMGC recovers aligned cross-study cluster blocks that correspond to lymphoid, my
 
 ### 2. Shared gene modules across organs
 
-Mesenchymal-cell modules are separated in lung and show associations across lung, kidney, heart, and liver.
+Mesenchymal-cell modules are separated in lung.
 
 <p align="center">
   <img src="results/figures/cross_organ_module_alignment.png" alt="Separated lung gene modules" width="720" />
@@ -26,7 +26,7 @@ Shared modules show enrichment for extracellular-region programs, angiogenesis, 
 
 ### 3. Spatial tonsil interaction
 
-Cell-type GSEA identifies significant enrichment for both NBC_MBC (NES 2.84, FDR 0.00) and CD4_T (NES 1.51, FDR 0.012).
+Cell-type GSEA identifies significant enrichment results.
 
 <p align="center">
   <img src="results/figures/spatial_gsea_cell_type_enrichment_table.png" alt="GSEA cell-type enrichment table showing NBC MBC and CD4 T results" width="680" />
