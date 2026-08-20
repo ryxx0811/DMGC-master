@@ -44,18 +44,3 @@ Candidate co-occurring regions are visible in the spatial transcriptomics tissue
   <img src="results/figures/spatial_interaction_visualization.png" alt="Spatial visualization of NBC MBC and CD4 T-cell modules" width="760" />
 </p>
 
-## Analysis workflows
-
-<p align="center">
-  <img src="results/figures/flow_heart_validation.png" alt="Heart validation workflow" width="760" />
-</p>
-
-<p align="center">
-  <img src="results/figures/flow_cross_organ.png" alt="Cross-organ analysis workflow" width="760" />
-</p>
-
-<p align="center">
-  <img src="results/figures/flow_spatial_integration.png" alt="Spatial integration workflow" width="760" />
-</p>
-
-[Complete presentation](results/presentation_final.pptx)
