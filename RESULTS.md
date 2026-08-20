@@ -43,3 +43,5 @@ Candidate co-occurring regions are visible in the spatial transcriptomics tissue
 <p align="center">
   <img src="results/figures/spatial_interaction_visualization.png" alt="Spatial visualization of NBC MBC and CD4 T-cell modules" width="760" />
 </p>
+
+See [presentation_final.pptx](presentation_final.pptx).
