@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS metadata
+.idea/
+.DS_Store
+
+# Datasets and generated experiment artifacts
+data/
+reheatHeart/
+single_cell/data/
+results/
+output/
+logs/*
+!logs/.gitkeep
+*.pt
+*.pth
+
+# Local visual-results poster (references ignored result images)
+RESULTS.md
