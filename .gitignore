@@ -13,7 +13,6 @@ __pycache__/
 data/
 reheatHeart/
 single_cell/data/
-results/
 output/
 logs/*
 !logs/.gitkeep
