@@ -19,6 +19,3 @@ logs/*
 !logs/.gitkeep
 *.pt
 *.pth
-
-# Local visual-results poster (references ignored result images)
-RESULTS.md
